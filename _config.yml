@@ -4,9 +4,9 @@ actors:
     name: ながら
     url: https://twitter.com/nagara_studio
 author: nagara
-description: Example description
-description_long: Example long description
-email: info@example.com
+description: ゲームを完成させろ
+description_long: 日々作っているゲームを完成させたい。そんな感じのやつ
+email: nagarakoubou@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -18,12 +18,12 @@ exclude:
 google_analytics:
 hashtag: ゲームを完成させろ
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: game,development,indie-game
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: ゲームを完成させろ.fm
 url: http://example.com
