@@ -1,13 +1,9 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
+  nagara:
+    image_url: /images/nagara/nagara.png
+    name: ながら
+    url: https://twitter.com/nagara_studio
+author: nagara
 description: Example description
 description_long: Example long description
 email: info@example.com
@@ -20,7 +16,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: ゲームを完成させろ
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
