@@ -5,7 +5,7 @@ actors:
     url: https://twitter.com/nagara_studio
 author: nagara
 description: ゲームを完成させろ
-description_long: 日々作っているゲームを完成させたい。そんな感じのやつ
+description_long: 日々作っているゲームを完成させたいとかそんな感じのやつ。
 email: nagarakoubou@gmail.com
 exclude:
   - docker
